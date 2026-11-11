@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+detector_server.log
+letter_debug.jpg
+*.pt
